@@ -1,0 +1,1 @@
+{"version":3,"sources":["..\\..\\scss\\main.scss"],"names":[],"mappings":"AAAA,KACE,MAAA,KACA,WAAA","sourcesContent":["html {\n  color: #222;\n  background: none;\n}\n"]}

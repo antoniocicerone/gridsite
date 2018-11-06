@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../scss/main.scss"],"names":[],"mappings":"AAAA;EACE,YAAW;EACX,iBAAgB;CACjB","file":"main.css","sourcesContent":["html {\n  color: #222;\n  background: none;\n}\n"]}
