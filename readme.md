@@ -1,3 +1,8 @@
 # grid site
 
-see: https://docs.npmjs.com/getting-started/publishing-npm-packages
+## Installation
+
+```
+$ npm i --save grid-site
+```
+
