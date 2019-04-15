@@ -1,0 +1,37 @@
+.text-center {
+  text-align: center;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.image-block {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.image--center {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.image--circle {
+  border-radius: 50%;
+}
+
+.hero-sm {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 400px;
+}
+
+.hero-full {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+/*# sourceMappingURL=main.css.map */
